@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Web (Edge, HTML Renderer)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "edge",
+      "args": ["--wasm", "html"],
+      "program": "lib/main.dart"
+    }
+  ]
+}
