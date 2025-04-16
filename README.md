@@ -30,17 +30,7 @@ Data is fetched from a mock API hosted at:
 
 ## 🚀 Build & Deploy
 
-To build the web version:
-
-```bash
-flutter build web
-```
-
-To deploy to GitHub Pages:
-
-```bash
-git subtree push --prefix build/web origin gh-pages
-```
+The app is built using Flutter Web and deployed via GitHub Pages.
 
 ## 📦 Author
 
